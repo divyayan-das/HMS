@@ -1,0 +1,2 @@
+bookingId,customerId,roomNumber,checkIn,checkOut,total,status,customerName,pricePerDay
+1,1,101,2026-04-01,2026-04-04,240.0,CHECKED_OUT,John Doe,80.0
