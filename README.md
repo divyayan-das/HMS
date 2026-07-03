@@ -1,6 +1,6 @@
 # Hotel Management System
 
-A JavaFX desktop application for hotel front-desk operations; rooms, customers, bookings, and billing — built with a clean MVC architecture.
+A JavaFX desktop application for hotel front-desk operations; rooms, customers, bookings, and billing, built with a clean MVC architecture.
 
 ## Features
 
